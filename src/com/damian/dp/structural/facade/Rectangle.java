@@ -1,4 +1,4 @@
-package com.damian.dp.structural;
+package com.damian.dp.structural.facade;
 
 public class Rectangle implements Shape{
     @Override
